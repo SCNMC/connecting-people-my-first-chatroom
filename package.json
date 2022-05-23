@@ -1,0 +1,29 @@
+{
+  "name": "connecting-people-my-first-chatroom",
+  "version": "1.0.0",
+  "description": "My first chatroom",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SCNMC/connecting-people-my-first-chatroom.git"
+  },
+  "keywords": [
+    "express",
+    "socket.io"
+  ],
+  "author": "\"Shauri Maigua <shauri98@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SCNMC/connecting-people-my-first-chatroom/issues"
+  },
+  "homepage": "https://github.com/SCNMC/connecting-people-my-first-chatroom#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  }
+}
