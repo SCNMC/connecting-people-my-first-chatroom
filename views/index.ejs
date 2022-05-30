@@ -5,21 +5,24 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Barebone chat</title>
+  <title>Chippr chat</title>
   <link rel="stylesheet" href="/styles.css">
 </head>
 
 <body>
-
   <main>
-    <section>
-      <h1>Le Chat <span>waar je niet weet met wie je chat...</span></h1>
-      <ul></ul>
-      <form>
-        <input type="text" autocomplete="off">
-        <button><span>Send</span></button>
-      </form>
-    </section>
+    <header class="header">
+      <h1>CHIPPR</h1>
+    </header>
+      <section>
+        <ul></ul>
+        <section class="input_container">
+        <form>
+          <input type="text" placeholder="Typ een bericht...." autocomplete="off"> 
+          <button><span>Send</span></button>
+        </form>
+      </section>
+      </section>
   </main>
 
   <script src="/socket.io/socket.io.js"></script>
