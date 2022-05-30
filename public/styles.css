@@ -22,11 +22,12 @@ main {
 .header{
  background-color: #262626;
  color: #262626;
- position: absolute;
-z-index: 1;
+ display: flex;
+ z-index: 1;
  width: 23rem;
  height: 10em;
 margin-top: -33em;
+margin-right: -23em;
 border-radius: 2rem;
 
 }
