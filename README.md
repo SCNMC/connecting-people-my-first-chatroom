@@ -1,7 +1,9 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # CHIPPR chat-app
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Dit is een simpele chatroom in de huisstijl van chippr waar je samen kan chatten.
+
+<img width="350" alt="Schermafbeelding 2022-06-25 om 18 25 12" src="https://user-images.githubusercontent.com/90189750/175782350-2137b6a5-4304-49ae-a949-61e76e486e6b.png">
 
 ## Inhoudsopgave
 
