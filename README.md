@@ -29,6 +29,9 @@ Het was bedoeling om dit in een huisstijl van een opdrachtgever te doen. Ik heb 
 
 ## Gebruik
 
+Open de link van deze chatroom. Wanneer je de chatroom betreed zal de pagina vragen om een gebruikersnaam in te voeren. Wanneer je dit gedaan hebt druk dan op "Ok". Je zult nu zien dat je connected bent. Wanneer een andere gebruiker dit zelfde doet zul je zien dat de naam van de gebruiker ook zal veschijnen in de chatroom. 
+Uw naam word altijd meegegeven met de berichten zodat er een overzicht is van wie welke berichten verstuurd. 
+
 ## Bronnen
 
 ## Licentie
